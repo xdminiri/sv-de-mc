@@ -202,3 +202,11 @@
 [04Apr2025 21:08:00.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FRANCOPR10: Set own game mode to Survival Mode]
 [04Apr2025 21:13:36.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
 [04Apr2025 21:13:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
+[04Apr2025 21:30:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Adventure Mode]
+[04Apr2025 21:30:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Apr2025 21:30:36.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Adventure Mode]
+[04Apr2025 21:30:40.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Apr2025 21:31:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Adventure Mode]
+[04Apr2025 21:31:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
+[04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
