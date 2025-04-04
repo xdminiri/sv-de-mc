@@ -152,3 +152,10 @@
 [04Apr2025 18:41:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported Fabrioreos to FRANCOPR10]
 [04Apr2025 18:43:13.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/4980, l='ServerLevel[The Maze (Krypnofite)]', x=-52.46, y=99.00, z=19.02] died: Griever was slain by FRANCOPR10
 [04Apr2025 18:45:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
+[04Apr2025 19:00:46.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5804, l='ServerLevel[The Maze (Krypnofite)]', x=140.70, y=100.00, z=-36.98] died: Griever was slain by chocolinpy
+[04Apr2025 19:02:06.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5805, l='ServerLevel[The Maze (Krypnofite)]', x=196.96, y=100.00, z=106.73] died: Griever fell from a high place
+[04Apr2025 19:03:11.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5812, l='ServerLevel[The Maze (Krypnofite)]', x=198.37, y=100.00, z=41.45] died: Griever was doomed to fall by chocolinpy
+[04Apr2025 19:03:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos was slain by Griever
+[04Apr2025 19:04:25.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
+[04Apr2025 19:04:55.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5813, l='ServerLevel[The Maze (Krypnofite)]', x=158.61, y=100.00, z=13.05] died: Griever fell from a high place
+[04Apr2025 19:06:19.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5932, l='ServerLevel[The Maze (Krypnofite)]', x=250.07, y=110.10, z=106.30] died: Griever suffocated in a wall
