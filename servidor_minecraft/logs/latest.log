@@ -147,3 +147,8 @@
 [04Apr2025 17:57:48.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:60070] logged in with entity id 3481 at (62.4109439878203, 100.7531999805212, 141.7118704064218)
 [04Apr2025 17:57:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
 [04Apr2025 17:59:01.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
+[04Apr2025 18:40:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos suffocated in a wall
+[04Apr2025 18:40:51.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Teleported Fabrioreos to FRANCOPR10]
+[04Apr2025 18:41:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported Fabrioreos to FRANCOPR10]
+[04Apr2025 18:43:13.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/4980, l='ServerLevel[The Maze (Krypnofite)]', x=-52.46, y=99.00, z=19.02] died: Griever was slain by FRANCOPR10
+[04Apr2025 18:45:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
