@@ -210,3 +210,16 @@
 [04Apr2025 21:31:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
 [04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
 [04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
+[04Apr2025 21:44:16.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
+[04Apr2025 21:44:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
+[04Apr2025 21:44:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Apr2025 21:44:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Apr2025 21:44:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Apr2025 21:44:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Apr2025 21:44:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:overworld
+[04Apr2025 21:44:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:the_end
+[04Apr2025 21:44:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:the_nether
+[04Apr2025 21:44:29.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Apr2025 21:44:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Apr2025 21:44:29.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Apr2025 21:44:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

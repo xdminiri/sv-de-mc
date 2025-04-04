@@ -1181,3 +1181,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
 [04Apr2025 21:36:46.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
 [04Apr2025 21:36:46.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 21:41:46.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 21:41:46.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 21:44:16.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
+[04Apr2025 21:44:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
+[04Apr2025 21:44:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Apr2025 21:44:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Apr2025 21:44:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Apr2025 21:44:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Apr2025 21:44:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:overworld
+[04Apr2025 21:44:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:the_end
+[04Apr2025 21:44:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:the_nether
+[04Apr2025 21:44:29.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 21:44:29.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 21:44:29.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Apr2025 21:44:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Apr2025 21:44:29.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Apr2025 21:44:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Apr2025 21:44:29.792] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
