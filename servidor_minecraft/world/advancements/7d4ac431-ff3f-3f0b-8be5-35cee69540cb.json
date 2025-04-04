@@ -22,6 +22,7 @@
     "criteria": {
       "cooked_beef": "2025-04-04 03:33:51 +0000",
       "cooked_cod": "2025-04-04 03:47:50 +0000",
+      "bread": "2025-04-04 17:05:36 +0000",
       "cooked_salmon": "2025-04-04 03:53:03 +0000"
     },
     "done": false
@@ -701,6 +702,36 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-04-04 04:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-04 17:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-04 17:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-04 17:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-04 17:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-04 17:08:35 +0000"
     },
     "done": true
   },
