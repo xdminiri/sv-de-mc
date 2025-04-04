@@ -968,3 +968,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 17:55:17.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
 [04Apr2025 17:56:46.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
 [04Apr2025 17:56:46.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 17:57:35.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! 9.456456687049418,1.0013359791121417,-3.2709381555305583
+[04Apr2025 17:57:39.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos was kicked for floating too long!
+[04Apr2025 17:57:39.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Flying is not enabled on this server
+[04Apr2025 17:57:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
+[04Apr2025 17:57:48.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.847] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.848] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.848] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:57:48.848] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Apr2025 17:57:48.848] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Apr2025 17:57:48.866] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Apr2025 17:57:48.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:60070] logged in with entity id 3481 at (62.4109439878203, 100.7531999805212, 141.7118704064218)
+[04Apr2025 17:57:48.927] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4677bb37 into net.minecraft.network.Connection@465af88b
+[04Apr2025 17:57:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
+[04Apr2025 17:59:01.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
+[04Apr2025 18:01:46.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 18:01:46.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 18:06:46.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 18:06:46.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 18:11:46.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 18:11:46.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 18:16:46.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 18:16:46.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
