@@ -923,3 +923,48 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 17:46:50.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos was kicked for floating too long!
 [04Apr2025 17:46:50.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Flying is not enabled on this server
 [04Apr2025 17:46:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Apr2025 17:47:10.959] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Apr2025 17:47:10.966] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Apr2025 17:47:11.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:59544] logged in with entity id 2485 at (-69.48811074033935, 99.7531999805212, 24.383118027819766)
+[04Apr2025 17:47:11.039] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@b468165 into net.minecraft.network.Connection@d932ac6
+[04Apr2025 17:47:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
+[04Apr2025 17:47:40.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Disconnected
+[04Apr2025 17:47:40.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Apr2025 17:48:03.081] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Apr2025 17:48:03.081] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Apr2025 17:48:03.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Apr2025 17:48:03.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:59593] logged in with entity id 2499 at (-69.48811074033935, 99.7531999805212, 24.383118027819766)
+[04Apr2025 17:48:03.174] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@d78f52c into net.minecraft.network.Connection@11cf5ed8
+[04Apr2025 17:48:03.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
+[04Apr2025 17:49:48.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=101, z=83} BlockPos{x=-12, y=99, z=84}
+[04Apr2025 17:49:48.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=101, z=83} BlockPos{x=-12, y=99, z=84}
+[04Apr2025 17:49:48.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=101, z=85} BlockPos{x=-12, y=99, z=84}
+[04Apr2025 17:49:48.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=101, z=85} BlockPos{x=-12, y=99, z=84}
+[04Apr2025 17:49:48.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=101, z=85} BlockPos{x=-12, y=99, z=84}
+[04Apr2025 17:51:46.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 17:51:46.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 17:55:07.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=98, z=99} BlockPos{x=-66, y=98, z=99}
+[04Apr2025 17:55:07.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=98, z=99} BlockPos{x=-66, y=98, z=99}
+[04Apr2025 17:55:07.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=98, z=98} BlockPos{x=-66, y=98, z=99}
+[04Apr2025 17:55:07.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=98, z=98} BlockPos{x=-66, y=98, z=99}
+[04Apr2025 17:55:11.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=97, z=97} BlockPos{x=-80, y=97, z=99}
+[04Apr2025 17:55:17.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
+[04Apr2025 17:55:17.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
+[04Apr2025 17:55:17.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
+[04Apr2025 17:56:46.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 17:56:46.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
