@@ -1165,3 +1165,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 21:13:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
 [04Apr2025 21:16:46.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
 [04Apr2025 21:16:46.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 21:21:46.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 21:21:46.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 21:26:46.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 21:26:46.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
