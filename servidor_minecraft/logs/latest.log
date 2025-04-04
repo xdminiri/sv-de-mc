@@ -159,3 +159,4 @@
 [04Apr2025 19:04:25.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
 [04Apr2025 19:04:55.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5813, l='ServerLevel[The Maze (Krypnofite)]', x=158.61, y=100.00, z=13.05] died: Griever fell from a high place
 [04Apr2025 19:06:19.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5932, l='ServerLevel[The Maze (Krypnofite)]', x=250.07, y=110.10, z=106.30] died: Griever suffocated in a wall
+[04Apr2025 19:22:11.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=101, z=22} BlockPos{x=3, y=99, z=21}
