@@ -160,3 +160,8 @@
 [04Apr2025 19:04:55.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5813, l='ServerLevel[The Maze (Krypnofite)]', x=158.61, y=100.00, z=13.05] died: Griever fell from a high place
 [04Apr2025 19:06:19.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5932, l='ServerLevel[The Maze (Krypnofite)]', x=250.07, y=110.10, z=106.30] died: Griever suffocated in a wall
 [04Apr2025 19:22:11.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=101, z=22} BlockPos{x=3, y=99, z=21}
+[04Apr2025 19:55:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FRANCOPR10> b z1
+[04Apr2025 19:56:27.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
+[04Apr2025 19:56:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
+[04Apr2025 19:56:42.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:49492] logged in with entity id 8480 at (-296.60887812710234, 100.41999998688698, -133.99147955351117)
+[04Apr2025 19:56:42.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
