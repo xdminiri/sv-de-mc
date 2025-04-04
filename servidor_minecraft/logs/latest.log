@@ -171,3 +171,6 @@
 [04Apr2025 20:03:05.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9138, l='ServerLevel[The Maze (Krypnofite)]', x=205.05, y=100.88, z=317.19] died: Griever was slain by chocolinpy
 [04Apr2025 20:06:46.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9269, l='ServerLevel[The Maze (Krypnofite)]', x=195.68, y=100.00, z=417.30] died: Griever was slain by FRANCOPR10
 [04Apr2025 20:06:51.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9270, l='ServerLevel[The Maze (Krypnofite)]', x=199.95, y=100.00, z=386.18] died: Griever fell from a high place
+[04Apr2025 20:13:11.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
+[04Apr2025 20:13:11.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
+[04Apr2025 20:18:19.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! -10.067649986700985,0.0,-0.7844960211582759
