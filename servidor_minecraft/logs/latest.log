@@ -183,3 +183,7 @@
 [04Apr2025 20:27:40.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:53302] logged in with entity id 10038 at (261.0751386625883, 100.0, 261.0939249256246)
 [04Apr2025 20:27:40.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
 [04Apr2025 20:27:42.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/10039, l='ServerLevel[The Maze (Krypnofite)]', x=173.70, y=100.00, z=321.70] died: Griever fell from a high place
+[04Apr2025 20:31:54.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
+[04Apr2025 20:31:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
+[04Apr2025 20:35:39.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:53745] logged in with entity id 10562 at (280.17785769808404, 100.0, 280.7405899171974)
+[04Apr2025 20:35:39.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
