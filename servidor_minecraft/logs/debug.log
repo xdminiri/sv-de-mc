@@ -1144,3 +1144,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 20:46:19.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11476, l='ServerLevel[The Maze (Krypnofite)]', x=485.30, y=110.10, z=490.07] died: Griever suffocated in a wall
 [04Apr2025 20:46:46.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
 [04Apr2025 20:46:46.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 20:50:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[04Apr2025 20:51:46.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 20:51:46.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[04Apr2025 20:56:46.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[04Apr2025 20:56:46.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
