@@ -24,7 +24,8 @@
       "cooked_beef": "2025-04-04 03:33:51 +0000",
       "cooked_cod": "2025-04-04 03:47:50 +0000",
       "bread": "2025-04-04 17:05:36 +0000",
-      "cooked_salmon": "2025-04-04 03:53:03 +0000"
+      "cooked_salmon": "2025-04-04 03:53:03 +0000",
+      "carrot": "2025-04-04 18:46:58 +0000"
     },
     "done": false
   },
@@ -768,7 +769,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2025-04-04 17:35:45 +0000"
+      "minecraft:pig": "2025-04-04 17:35:45 +0000",
+      "minecraft:cow": "2025-04-04 18:47:37 +0000"
     },
     "done": false
   },
