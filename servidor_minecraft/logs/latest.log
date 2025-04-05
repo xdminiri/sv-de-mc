@@ -1,225 +1,62 @@
-[04Apr2025 16:56:13.678] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357, nogui]
-[04Apr2025 16:56:13.683] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[04Apr2025 16:56:13.893] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sv-de-mc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Apr2025 16:56:14.266] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20-46.0.14/fmlcore-1.20-46.0.14.jar is missing mods.toml file
-[04Apr2025 16:56:14.272] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20-46.0.14/javafmllanguage-1.20-46.0.14.jar is missing mods.toml file
-[04Apr2025 16:56:14.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20-46.0.14/lowcodelanguage-1.20-46.0.14.jar is missing mods.toml file
-[04Apr2025 16:56:14.280] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20-46.0.14/mclanguage-1.20-46.0.14.jar is missing mods.toml file
-[04Apr2025 16:56:14.410] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[04Apr2025 16:56:17.167] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[04Apr2025 16:56:29.143] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 46.0.14, for MC 1.20 with MCP 20230608.053357
-[04Apr2025 16:56:29.150] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v46.0.14 Initialized
-[04Apr2025 16:56:30.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Apr2025 16:56:31.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 46.0.14 Target: 46.0.14
-[04Apr2025 16:56:32.135] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Apr2025 16:56:33.194] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[04Apr2025 16:56:33.196] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[04Apr2025 16:56:36.212] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[04Apr2025 16:56:36.467] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[04Apr2025 16:56:37.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20
-[04Apr2025 16:56:37.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Apr2025 16:56:37.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Apr2025 16:56:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Apr2025 16:56:37.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Apr2025 16:56:37.496] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Apr2025 16:56:37.654] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Apr2025 16:56:37.656] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Apr2025 16:56:37.658] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Apr2025 16:56:37.660] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Apr2025 16:56:37.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Apr2025 16:56:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Apr2025 16:56:43.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.823] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.852] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:43.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:44.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:44.656] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:45.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 16:56:46.201] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8046 ms
-[04Apr2025 16:56:46.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.525s)! For help, type "help"
-[04Apr2025 16:56:46.213] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Apr2025 16:57:40.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:57223] logged in with entity id 34 at (-48.313876489965395, 98.0, 28.383571577300017)
-[04Apr2025 16:57:40.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 16:59:16.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chocolinpy[/10.241.231.151:58163] logged in with entity id 36 at (77.35954193084515, 101.0, 5.506852682627536)
-[04Apr2025 16:59:16.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy joined the game
-[04Apr2025 17:01:06.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:58154] logged in with entity id 39 at (-13.513354398733393, 99.0, 69.1606033867955)
-[04Apr2025 17:01:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
-[04Apr2025 17:01:32.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! 6.682240255615067,-0.25799910351527444,7.802815752456434
-[04Apr2025 17:03:25.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
-[04Apr2025 17:03:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 17:03:49.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:57481] logged in with entity id 138 at (3.0972230276438184, 100.0, 5.723708251460263)
-[04Apr2025 17:03:49.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 17:04:23.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=100, z=18} BlockPos{x=-67, y=98, z=17}
-[04Apr2025 17:04:23.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=100, z=16} BlockPos{x=-68, y=98, z=17}
-[04Apr2025 17:04:23.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=100, z=16} BlockPos{x=-68, y=98, z=17}
-[04Apr2025 17:04:27.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
-[04Apr2025 17:04:27.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
-[04Apr2025 17:04:56.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=101, z=14} BlockPos{x=-85, y=99, z=13}
-[04Apr2025 17:06:45.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chocolinpy[/10.241.231.151:58604] logged in with entity id 274 at (-64.33154745994969, 99.0, 10.826111292548825)
-[04Apr2025 17:06:45.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy joined the game
-[04Apr2025 17:10:36.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-57, y=101, z=-16} BlockPos{x=-58, y=99, z=-15}
-[04Apr2025 17:10:36.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-57, y=101, z=-16} BlockPos{x=-58, y=99, z=-15}
-[04Apr2025 17:10:36.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=101, z=-15} BlockPos{x=-55, y=99, z=-14}
-[04Apr2025 17:14:05.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
-[04Apr2025 17:14:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
-[04Apr2025 17:14:49.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=98, z=69} BlockPos{x=-83, y=96, z=69}
-[04Apr2025 17:14:49.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=98, z=69} BlockPos{x=-83, y=96, z=69}
-[04Apr2025 17:14:57.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=98, z=75} BlockPos{x=-86, y=96, z=77}
-[04Apr2025 17:14:59.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=98, z=71} BlockPos{x=-96, y=96, z=71}
-[04Apr2025 17:14:59.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=98, z=71} BlockPos{x=-96, y=96, z=71}
-[04Apr2025 17:14:59.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=98, z=71} BlockPos{x=-96, y=96, z=71}
-[04Apr2025 17:14:59.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=98, z=70} BlockPos{x=-96, y=96, z=69}
-[04Apr2025 17:14:59.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=98, z=70} BlockPos{x=-96, y=96, z=69}
-[04Apr2025 17:15:00.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=97, z=67} BlockPos{x=-98, y=96, z=65}
-[04Apr2025 17:15:00.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=97, z=67} BlockPos{x=-98, y=96, z=65}
-[04Apr2025 17:15:09.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=98, z=77} BlockPos{x=-98, y=96, z=78}
-[04Apr2025 17:15:11.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=98, z=82} BlockPos{x=-98, y=96, z=84}
-[04Apr2025 17:15:11.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=98, z=82} BlockPos{x=-98, y=96, z=84}
-[04Apr2025 17:15:14.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=98, z=86} BlockPos{x=-92, y=96, z=87}
-[04Apr2025 17:15:14.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=98, z=86} BlockPos{x=-92, y=96, z=87}
-[04Apr2025 17:15:17.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=98, z=87} BlockPos{x=-98, y=96, z=89}
-[04Apr2025 17:16:30.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chocolinpy[/10.241.231.151:59671] logged in with entity id 608 at (-72.94682436877827, 104.0, 38.656109280976146)
-[04Apr2025 17:16:30.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy joined the game
-[04Apr2025 17:18:10.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/32, l='ServerLevel[The Maze (Krypnofite)]', x=-11.70, y=110.10, z=-44.70] died: Griever was slain by FRANCOPR10
-[04Apr2025 17:23:47.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-16} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-16} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=100, z=-15} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=101, z=-14} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=101, z=-14} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=101, z=-14} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=101, z=-14} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:48.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=101, z=-14} BlockPos{x=-24, y=99, z=-15}
-[04Apr2025 17:23:51.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=101, z=-13} BlockPos{x=-25, y=99, z=-15}
-[04Apr2025 17:23:51.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=101, z=-13} BlockPos{x=-25, y=99, z=-15}
-[04Apr2025 17:23:51.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=101, z=-13} BlockPos{x=-25, y=99, z=-15}
-[04Apr2025 17:23:51.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=101, z=-13} BlockPos{x=-25, y=99, z=-15}
-[04Apr2025 17:25:04.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=101, z=15} BlockPos{x=-5, y=99, z=14}
-[04Apr2025 17:25:04.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=101, z=15} BlockPos{x=-5, y=99, z=14}
-[04Apr2025 17:25:04.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=101, z=15} BlockPos{x=-5, y=99, z=14}
-[04Apr2025 17:25:04.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=101, z=15} BlockPos{x=-5, y=99, z=14}
-[04Apr2025 17:25:04.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=101, z=15} BlockPos{x=-5, y=99, z=14}
-[04Apr2025 17:25:06.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=100, z=18} BlockPos{x=-1, y=99, z=16}
-[04Apr2025 17:25:06.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=100, z=18} BlockPos{x=-1, y=99, z=16}
-[04Apr2025 17:25:06.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=100, z=18} BlockPos{x=-1, y=99, z=16}
-[04Apr2025 17:25:06.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=100, z=18} BlockPos{x=-1, y=99, z=16}
-[04Apr2025 17:26:56.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> zzz
-[04Apr2025 17:37:08.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! -7.996679543340164,-0.20000004768371582,-6.318243140113793
-[04Apr2025 17:46:50.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos was kicked for floating too long!
-[04Apr2025 17:46:50.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Flying is not enabled on this server
-[04Apr2025 17:46:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 17:47:11.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:59544] logged in with entity id 2485 at (-69.48811074033935, 99.7531999805212, 24.383118027819766)
-[04Apr2025 17:47:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 17:47:40.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Disconnected
-[04Apr2025 17:47:40.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 17:48:03.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:59593] logged in with entity id 2499 at (-69.48811074033935, 99.7531999805212, 24.383118027819766)
-[04Apr2025 17:48:03.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 17:49:48.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=101, z=83} BlockPos{x=-12, y=99, z=84}
-[04Apr2025 17:49:48.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=101, z=83} BlockPos{x=-12, y=99, z=84}
-[04Apr2025 17:49:48.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=101, z=85} BlockPos{x=-12, y=99, z=84}
-[04Apr2025 17:49:48.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=101, z=85} BlockPos{x=-12, y=99, z=84}
-[04Apr2025 17:49:48.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=101, z=85} BlockPos{x=-12, y=99, z=84}
-[04Apr2025 17:55:07.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=98, z=99} BlockPos{x=-66, y=98, z=99}
-[04Apr2025 17:55:07.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=98, z=99} BlockPos{x=-66, y=98, z=99}
-[04Apr2025 17:55:07.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=98, z=98} BlockPos{x=-66, y=98, z=99}
-[04Apr2025 17:55:07.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=98, z=98} BlockPos{x=-66, y=98, z=99}
-[04Apr2025 17:55:11.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=97, z=97} BlockPos{x=-80, y=97, z=99}
-[04Apr2025 17:55:17.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
-[04Apr2025 17:55:17.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
-[04Apr2025 17:55:17.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=97, z=97} BlockPos{x=-96, y=97, z=99}
-[04Apr2025 17:57:35.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! 9.456456687049418,1.0013359791121417,-3.2709381555305583
-[04Apr2025 17:57:39.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos was kicked for floating too long!
-[04Apr2025 17:57:39.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Flying is not enabled on this server
-[04Apr2025 17:57:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 17:57:48.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:60070] logged in with entity id 3481 at (62.4109439878203, 100.7531999805212, 141.7118704064218)
-[04Apr2025 17:57:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 17:59:01.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
-[04Apr2025 18:40:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos suffocated in a wall
-[04Apr2025 18:40:51.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Teleported Fabrioreos to FRANCOPR10]
-[04Apr2025 18:41:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported Fabrioreos to FRANCOPR10]
-[04Apr2025 18:43:13.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/4980, l='ServerLevel[The Maze (Krypnofite)]', x=-52.46, y=99.00, z=19.02] died: Griever was slain by FRANCOPR10
-[04Apr2025 18:45:52.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
-[04Apr2025 19:00:46.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5804, l='ServerLevel[The Maze (Krypnofite)]', x=140.70, y=100.00, z=-36.98] died: Griever was slain by chocolinpy
-[04Apr2025 19:02:06.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5805, l='ServerLevel[The Maze (Krypnofite)]', x=196.96, y=100.00, z=106.73] died: Griever fell from a high place
-[04Apr2025 19:03:11.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5812, l='ServerLevel[The Maze (Krypnofite)]', x=198.37, y=100.00, z=41.45] died: Griever was doomed to fall by chocolinpy
-[04Apr2025 19:03:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos was slain by Griever
-[04Apr2025 19:04:25.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrioreos: Set own game mode to Survival Mode]
-[04Apr2025 19:04:55.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5813, l='ServerLevel[The Maze (Krypnofite)]', x=158.61, y=100.00, z=13.05] died: Griever fell from a high place
-[04Apr2025 19:06:19.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/5932, l='ServerLevel[The Maze (Krypnofite)]', x=250.07, y=110.10, z=106.30] died: Griever suffocated in a wall
-[04Apr2025 19:22:11.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=101, z=22} BlockPos{x=3, y=99, z=21}
-[04Apr2025 19:55:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FRANCOPR10> b z1
-[04Apr2025 19:56:27.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
-[04Apr2025 19:56:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 19:56:42.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:49492] logged in with entity id 8480 at (-296.60887812710234, 100.41999998688698, -133.99147955351117)
-[04Apr2025 19:56:42.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 20:01:29.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/8921, l='ServerLevel[The Maze (Krypnofite)]', x=217.36, y=100.00, z=437.91] died: Griever was slain by chocolinpy
-[04Apr2025 20:02:08.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/8922, l='ServerLevel[The Maze (Krypnofite)]', x=255.22, y=100.00, z=488.45] died: Griever fell from a high place
-[04Apr2025 20:02:57.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9137, l='ServerLevel[The Maze (Krypnofite)]', x=204.94, y=100.94, z=319.63] died: Griever was slain by FRANCOPR10
-[04Apr2025 20:03:05.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9138, l='ServerLevel[The Maze (Krypnofite)]', x=205.05, y=100.88, z=317.19] died: Griever was slain by chocolinpy
-[04Apr2025 20:06:46.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9269, l='ServerLevel[The Maze (Krypnofite)]', x=195.68, y=100.00, z=417.30] died: Griever was slain by FRANCOPR10
-[04Apr2025 20:06:51.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9270, l='ServerLevel[The Maze (Krypnofite)]', x=199.95, y=100.00, z=386.18] died: Griever fell from a high place
-[04Apr2025 20:13:11.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
-[04Apr2025 20:13:11.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
-[04Apr2025 20:18:19.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! -10.067649986700985,0.0,-0.7844960211582759
-[04Apr2025 20:18:29.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
-[04Apr2025 20:18:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 20:18:51.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:50567] logged in with entity id 9692 at (-77.57519405650562, 97.9375, 51.89037140945247)
-[04Apr2025 20:18:51.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
-[04Apr2025 20:22:52.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/9972, l='ServerLevel[The Maze (Krypnofite)]', x=481.77, y=100.00, z=483.07] died: Griever was slain by chocolinpy
-[04Apr2025 20:26:19.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/10031, l='ServerLevel[The Maze (Krypnofite)]', x=485.30, y=110.10, z=490.08] died: Griever suffocated in a wall
-[04Apr2025 20:27:40.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:53302] logged in with entity id 10038 at (261.0751386625883, 100.0, 261.0939249256246)
-[04Apr2025 20:27:40.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
-[04Apr2025 20:27:42.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/10039, l='ServerLevel[The Maze (Krypnofite)]', x=173.70, y=100.00, z=321.70] died: Griever fell from a high place
-[04Apr2025 20:31:54.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
-[04Apr2025 20:31:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
-[04Apr2025 20:35:39.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:53745] logged in with entity id 10562 at (280.17785769808404, 100.0, 280.7405899171974)
-[04Apr2025 20:35:39.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
-[04Apr2025 20:40:41.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11070, l='ServerLevel[The Maze (Krypnofite)]', x=485.30, y=110.10, z=490.07] died: Griever suffocated in a wall
-[04Apr2025 20:41:04.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11071, l='ServerLevel[The Maze (Krypnofite)]', x=477.28, y=101.58, z=480.30] died: Griever was slain by chocolinpy
-[04Apr2025 20:42:59.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11272, l='ServerLevel[The Maze (Krypnofite)]', x=485.19, y=110.10, z=490.30] died: Griever suffocated in a wall
-[04Apr2025 20:42:59.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11273, l='ServerLevel[The Maze (Krypnofite)]', x=485.80, y=110.00, z=489.70] died: Griever suffocated in a wall
-[04Apr2025 20:46:10.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11477, l='ServerLevel[The Maze (Krypnofite)]', x=484.12, y=100.31, z=487.03] died: Griever was slain by FRANCOPR10
-[04Apr2025 20:46:19.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/11476, l='ServerLevel[The Maze (Krypnofite)]', x=485.30, y=110.10, z=490.07] died: Griever suffocated in a wall
-[04Apr2025 20:50:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
-[04Apr2025 21:00:29.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/12839, l='ServerLevel[The Maze (Krypnofite)]', x=-214.79, y=101.14, z=-55.74] died: Griever was slain by chocolinpy
-[04Apr2025 21:03:12.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 was slain by Griever
-[04Apr2025 21:03:15.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/12918, l='ServerLevel[The Maze (Krypnofite)]', x=5.69, y=100.00, z=-124.82] died: Griever was doomed to fall by FRANCOPR10
-[04Apr2025 21:06:03.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 was slain by Griever
-[04Apr2025 21:06:49.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/12961, l='ServerLevel[The Maze (Krypnofite)]', x=-34.98, y=100.00, z=-15.29] died: Griever was slain by Fabrioreos
-[04Apr2025 21:08:00.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FRANCOPR10: Set own game mode to Survival Mode]
-[04Apr2025 21:13:36.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
-[04Apr2025 21:13:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
-[04Apr2025 21:30:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Adventure Mode]
-[04Apr2025 21:30:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
-[04Apr2025 21:30:36.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Adventure Mode]
-[04Apr2025 21:30:40.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
-[04Apr2025 21:31:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Adventure Mode]
-[04Apr2025 21:31:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
-[04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Timed out
-[04Apr2025 21:33:28.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
-[04Apr2025 21:44:16.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
-[04Apr2025 21:44:16.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
-[04Apr2025 21:44:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[04Apr2025 21:44:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Apr2025 21:44:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Apr2025 21:44:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Apr2025 21:44:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:overworld
-[04Apr2025 21:44:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:the_end
-[04Apr2025 21:44:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Maze (Krypnofite)]'/minecraft:the_nether
-[04Apr2025 21:44:29.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Apr2025 21:44:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Apr2025 21:44:29.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Apr2025 21:44:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Apr2025 21:45:54.927] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357, nogui]
+[05Apr2025 21:45:54.946] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[05Apr2025 21:45:55.240] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sv-de-mc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Apr2025 21:45:55.923] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20-46.0.14/fmlcore-1.20-46.0.14.jar is missing mods.toml file
+[05Apr2025 21:45:55.932] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20-46.0.14/javafmllanguage-1.20-46.0.14.jar is missing mods.toml file
+[05Apr2025 21:45:55.936] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20-46.0.14/lowcodelanguage-1.20-46.0.14.jar is missing mods.toml file
+[05Apr2025 21:45:55.941] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20-46.0.14/mclanguage-1.20-46.0.14.jar is missing mods.toml file
+[05Apr2025 21:45:56.135] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[05Apr2025 21:46:00.837] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[05Apr2025 21:46:20.029] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 46.0.14, for MC 1.20 with MCP 20230608.053357
+[05Apr2025 21:46:20.044] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v46.0.14 Initialized
+[05Apr2025 21:46:23.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Apr2025 21:46:24.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 46.0.14 Target: 46.0.14
+[05Apr2025 21:46:25.665] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Apr2025 21:46:27.309] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[05Apr2025 21:46:27.310] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv-de-mc/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[05Apr2025 21:46:32.131] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[05Apr2025 21:46:32.551] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[05Apr2025 21:46:33.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20
+[05Apr2025 21:46:33.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Apr2025 21:46:33.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Apr2025 21:46:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Apr2025 21:46:34.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Apr2025 21:46:34.900] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Apr2025 21:46:35.158] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Apr2025 21:46:35.162] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Apr2025 21:46:35.162] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Apr2025 21:46:35.163] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Apr2025 21:46:35.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Apr2025 21:46:36.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Apr2025 21:46:47.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.611] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.613] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.617] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.619] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.633] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.636] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.640] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.645] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.649] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.654] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:47.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:48.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:48.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:49.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:49.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2025 21:46:50.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[05Apr2025 21:46:51.481] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14858 ms
+[05Apr2025 21:46:51.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.294s)! For help, type "help"
+[05Apr2025 21:46:51.500] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Apr2025 21:46:53.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
