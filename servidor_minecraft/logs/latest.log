@@ -65,3 +65,15 @@
 [05Apr2025 22:06:58.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:50113] logged in with entity id 171 at (-70.1889853018949, 98.0, 38.17481840579971)
 [05Apr2025 22:06:58.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
 [05Apr2025 22:09:53.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! -1.4510489624946814,1.044812420399012,10.222112556396887
+[05Apr2025 22:27:22.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/1240, l='ServerLevel[The Maze (Krypnofite)]', x=5.70, y=110.00, z=-106.04] died: Griever suffocated in a wall
+[05Apr2025 22:29:39.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/1245, l='ServerLevel[The Maze (Krypnofite)]', x=6.29, y=110.10, z=-106.70] died: Griever suffocated in a wall
+[05Apr2025 22:32:59.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/1247, l='ServerLevel[The Maze (Krypnofite)]', x=6.07, y=110.10, z=-106.70] died: Griever suffocated in a wall
+[05Apr2025 22:44:22.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chocolinpy[/10.241.231.151:54736] logged in with entity id 1506 at (-60.5541420084092, 106.0, 28.635357064495206)
+[05Apr2025 22:44:22.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy joined the game
+[05Apr2025 22:44:34.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabrioreos> bro
+[05Apr2025 22:44:40.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> ola
+[05Apr2025 22:44:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabrioreos> vamos al laberinto mañana
+[05Apr2025 22:45:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> que tal lews fue?
+[05Apr2025 22:45:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabrioreos> mal
+[05Apr2025 22:45:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> xd
+[05Apr2025 22:45:18.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabrioreos> de momento
