@@ -88,3 +88,16 @@
 [05Apr2025 22:54:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
 [05Apr2025 22:54:43.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:51358] logged in with entity id 2041 at (-3.0728114754633653, 100.0, 94.9629181156663)
 [05Apr2025 22:54:43.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
+[05Apr2025 22:56:47.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
+[05Apr2025 22:56:47.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
+[05Apr2025 22:56:56.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:51486] logged in with entity id 2043 at (-47.69999998807907, 89.0, 10.445018126815144)
+[05Apr2025 22:56:56.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
+[05Apr2025 22:58:37.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2048, l='ServerLevel[The Maze (Krypnofite)]', x=140.19, y=100.00, z=142.33] died: Griever was slain by Fabrioreos
+[05Apr2025 22:58:39.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2046, l='ServerLevel[The Maze (Krypnofite)]', x=137.18, y=100.00, z=143.28] died: Griever was slain by Fabrioreos
+[05Apr2025 22:58:46.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2047, l='ServerLevel[The Maze (Krypnofite)]', x=-29.70, y=110.10, z=108.98] died: Griever suffocated in a wall
+[05Apr2025 23:00:52.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2058, l='ServerLevel[The Maze (Krypnofite)]', x=111.60, y=100.00, z=3.05] died: Griever was slain by FRANCOPR10
+[05Apr2025 23:00:53.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2060, l='ServerLevel[The Maze (Krypnofite)]', x=118.05, y=100.00, z=0.25] died: Griever was slain by Fabrioreos
+[05Apr2025 23:01:03.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2059, l='ServerLevel[The Maze (Krypnofite)]', x=-29.01, y=110.10, z=108.30] died: Griever suffocated in a wall
+[05Apr2025 23:04:12.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2070, l='ServerLevel[The Maze (Krypnofite)]', x=68.16, y=105.00, z=-166.30] died: Griever was slain by Fabrioreos
+[05Apr2025 23:04:17.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2072, l='ServerLevel[The Maze (Krypnofite)]', x=84.42, y=100.00, z=-164.29] died: Griever was slain by FRANCOPR10
+[05Apr2025 23:04:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2071, l='ServerLevel[The Maze (Krypnofite)]', x=-29.70, y=110.10, z=108.98] died: Griever suffocated in a wall
