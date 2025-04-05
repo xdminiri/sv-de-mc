@@ -734,3 +734,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Apr2025 23:06:53.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
 [05Apr2025 23:11:53.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
 [05Apr2025 23:11:53.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[05Apr2025 23:16:53.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[05Apr2025 23:16:53.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[05Apr2025 23:18:36.514] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2437, l='ServerLevel[The Maze (Krypnofite)]', x=1.87, y=100.00, z=-107.48] died: Griever was slain by Fabrioreos
+[05Apr2025 23:18:40.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2439, l='ServerLevel[The Maze (Krypnofite)]', x=157.32, y=100.00, z=-71.13] died: Griever was slain by FRANCOPR10
+[05Apr2025 23:19:25.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2438, l='ServerLevel[The Maze (Krypnofite)]', x=-81.25, y=100.00, z=126.69] died: Griever fell from a high place
+[05Apr2025 23:19:49.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
+[05Apr2025 23:19:49.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
+[05Apr2025 23:20:55.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[05Apr2025 23:20:55.877] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[05Apr2025 23:20:55.908] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Apr2025 23:20:55.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:52724] logged in with entity id 2521 at (127.69999998807907, 100.0, -60.633647467395775)
+[05Apr2025 23:20:55.969] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3f71ffa9 into net.minecraft.network.Connection@49ed3676
+[05Apr2025 23:20:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
+[05Apr2025 23:21:01.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2518, l='ServerLevel[The Maze (Krypnofite)]', x=194.83, y=100.00, z=-38.90] died: Griever was doomed to fall by Fabrioreos
+[05Apr2025 23:21:53.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[05Apr2025 23:21:53.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[05Apr2025 23:23:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FRANCOPR10> choco onde estas?d
+[05Apr2025 23:23:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FRANCOPR10> estamo en el laberinto nstos
+[05Apr2025 23:23:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> en una esquina del laberinto
+[05Apr2025 23:24:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> farmeando arañas
+[05Apr2025 23:24:15.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2571, l='ServerLevel[The Maze (Krypnofite)]', x=216.90, y=100.42, z=-108.19] died: Griever was slain by Fabrioreos
+[05Apr2025 23:24:19.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2572, l='ServerLevel[The Maze (Krypnofite)]', x=-4.30, y=100.00, z=108.70] died: Griever was slain by chocolinpy
+[05Apr2025 23:24:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2573, l='ServerLevel[The Maze (Krypnofite)]', x=107.30, y=110.10, z=7.29] died: Griever suffocated in a wall
