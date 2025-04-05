@@ -60,3 +60,8 @@
 [05Apr2025 21:46:51.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.294s)! For help, type "help"
 [05Apr2025 21:46:51.500] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [05Apr2025 21:46:53.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05Apr2025 22:06:57.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRANCOPR10[/10.241.109.146:65228] logged in with entity id 170 at (-51.70444563339933, 98.0, 33.618176375132805)
+[05Apr2025 22:06:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 joined the game
+[05Apr2025 22:06:58.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrioreos[/10.241.213.151:50113] logged in with entity id 171 at (-70.1889853018949, 98.0, 38.17481840579971)
+[05Apr2025 22:06:58.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos joined the game
+[05Apr2025 22:09:53.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos moved too quickly! -1.4510489624946814,1.044812420399012,10.222112556396887
