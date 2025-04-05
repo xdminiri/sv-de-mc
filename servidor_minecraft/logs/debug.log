@@ -730,3 +730,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Apr2025 23:04:12.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2070, l='ServerLevel[The Maze (Krypnofite)]', x=68.16, y=105.00, z=-166.30] died: Griever was slain by Fabrioreos
 [05Apr2025 23:04:17.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2072, l='ServerLevel[The Maze (Krypnofite)]', x=84.42, y=100.00, z=-164.29] died: Griever was slain by FRANCOPR10
 [05Apr2025 23:04:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2071, l='ServerLevel[The Maze (Krypnofite)]', x=-29.70, y=110.10, z=108.98] died: Griever suffocated in a wall
+[05Apr2025 23:06:53.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[05Apr2025 23:06:53.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[05Apr2025 23:11:53.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[05Apr2025 23:11:53.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
