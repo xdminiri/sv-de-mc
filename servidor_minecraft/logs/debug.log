@@ -764,3 +764,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Apr2025 23:24:15.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2571, l='ServerLevel[The Maze (Krypnofite)]', x=216.90, y=100.42, z=-108.19] died: Griever was slain by Fabrioreos
 [05Apr2025 23:24:19.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2572, l='ServerLevel[The Maze (Krypnofite)]', x=-4.30, y=100.00, z=108.70] died: Griever was slain by chocolinpy
 [05Apr2025 23:24:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Griever'/2573, l='ServerLevel[The Maze (Krypnofite)]', x=107.30, y=110.10, z=7.29] died: Griever suffocated in a wall
+[05Apr2025 23:26:53.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[05Apr2025 23:26:53.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[05Apr2025 23:27:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> estan en los sectores?
+[05Apr2025 23:27:31.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FRANCOPR10> todavia
+[05Apr2025 23:27:53.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> no se acuerda pio fabri el camino?
+[05Apr2025 23:30:24.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrioreos lost connection: Disconnected
+[05Apr2025 23:30:24.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrioreos left the game
+[05Apr2025 23:31:17.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRANCOPR10 lost connection: Disconnected
+[05Apr2025 23:31:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRANCOPR10 left the game
+[05Apr2025 23:31:53.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[05Apr2025 23:31:53.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[05Apr2025 23:34:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[05Apr2025 23:34:22.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[05Apr2025 23:36:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy fell from a high place
