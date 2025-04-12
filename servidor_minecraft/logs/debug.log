@@ -538,3 +538,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Apr2025 02:16:38.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
 [12Apr2025 02:21:37.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
 [12Apr2025 02:21:37.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[12Apr2025 02:26:37.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[12Apr2025 02:26:37.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
+[12Apr2025 02:31:37.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Maze (Krypnofite)
+[12Apr2025 02:31:38.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Maze (Krypnofite)
